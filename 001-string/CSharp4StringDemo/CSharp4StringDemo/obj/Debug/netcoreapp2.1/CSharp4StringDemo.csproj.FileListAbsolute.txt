@@ -1,0 +1,11 @@
+E:\DZeroProjects\GitHub\csharper-learning-java\001-string\CSharp4StringDemo\CSharp4StringDemo\bin\Debug\netcoreapp2.1\CSharp4StringDemo.deps.json
+E:\DZeroProjects\GitHub\csharper-learning-java\001-string\CSharp4StringDemo\CSharp4StringDemo\bin\Debug\netcoreapp2.1\CSharp4StringDemo.runtimeconfig.json
+E:\DZeroProjects\GitHub\csharper-learning-java\001-string\CSharp4StringDemo\CSharp4StringDemo\bin\Debug\netcoreapp2.1\CSharp4StringDemo.runtimeconfig.dev.json
+E:\DZeroProjects\GitHub\csharper-learning-java\001-string\CSharp4StringDemo\CSharp4StringDemo\bin\Debug\netcoreapp2.1\CSharp4StringDemo.dll
+E:\DZeroProjects\GitHub\csharper-learning-java\001-string\CSharp4StringDemo\CSharp4StringDemo\bin\Debug\netcoreapp2.1\CSharp4StringDemo.pdb
+E:\DZeroProjects\GitHub\csharper-learning-java\001-string\CSharp4StringDemo\CSharp4StringDemo\obj\Debug\netcoreapp2.1\CSharp4StringDemo.csprojAssemblyReference.cache
+E:\DZeroProjects\GitHub\csharper-learning-java\001-string\CSharp4StringDemo\CSharp4StringDemo\obj\Debug\netcoreapp2.1\CSharp4StringDemo.csproj.CoreCompileInputs.cache
+E:\DZeroProjects\GitHub\csharper-learning-java\001-string\CSharp4StringDemo\CSharp4StringDemo\obj\Debug\netcoreapp2.1\CSharp4StringDemo.AssemblyInfoInputs.cache
+E:\DZeroProjects\GitHub\csharper-learning-java\001-string\CSharp4StringDemo\CSharp4StringDemo\obj\Debug\netcoreapp2.1\CSharp4StringDemo.AssemblyInfo.cs
+E:\DZeroProjects\GitHub\csharper-learning-java\001-string\CSharp4StringDemo\CSharp4StringDemo\obj\Debug\netcoreapp2.1\CSharp4StringDemo.dll
+E:\DZeroProjects\GitHub\csharper-learning-java\001-string\CSharp4StringDemo\CSharp4StringDemo\obj\Debug\netcoreapp2.1\CSharp4StringDemo.pdb
